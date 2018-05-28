@@ -1,13 +1,12 @@
 # Road-Finder
-A program that analyzes satellite pictures to classify road
-Uses a K-nearest neighbor algorithm to look at a pixel grid from satelitte images and highlights them if there is a match
-Satellite Images from ArcGis
-Algorithm From Scikit Learn
+A program that analyzes satellite pictures to classify road. <br />
+Uses a K-nearest neighbor algorithm to look at a pixel grid from satelitte images and highlights them if there is a match.<br />
+Satellite Images from ArcGis.<br />
+Algorithm From Scikit Learn.<br />
 
 
 Before
 ![](Before.png)
-
 
 After
 ![](After.png)
